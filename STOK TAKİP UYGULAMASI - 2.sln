@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STOK TAKİP UYGULAMASI - 2", "STOK TAKİP UYGULAMASI - 2\STOK TAKİP UYGULAMASI - 2.csproj", "{B053686B-218C-435C-BFD7-8B4B566C536D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B053686B-218C-435C-BFD7-8B4B566C536D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B053686B-218C-435C-BFD7-8B4B566C536D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B053686B-218C-435C-BFD7-8B4B566C536D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B053686B-218C-435C-BFD7-8B4B566C536D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACE9AC9-6850-4CA0-92BC-E875D8CBF968}
+	EndGlobalSection
+EndGlobal

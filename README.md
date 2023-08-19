@@ -1,0 +1,1 @@
+# STOK TAKİP UYGULAMASI - 2
